@@ -13,4 +13,4 @@ Proyek Sistem Irigasi Pintar menggunakan ESP32-S3 (Lexin N16R8) dan Mikrofon MAX
 * **Akurasi Model:** 79.4%
 * **Kemampuan Live Classification:** Berhasil mendeteksi kata kunci ("Siram" dan "Stop") secara real-time dengan akurasi tinggi.
 
-![Hasil Training AI](Screenshot 2026-05-12 153550.png)
+![Hasil Training AI](Screenshot%202026-05-12%20153550.png)
